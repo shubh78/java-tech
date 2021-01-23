@@ -8,5 +8,4 @@ class JavaTechApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
